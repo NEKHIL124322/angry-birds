@@ -21,6 +21,4 @@ class Pig extends BaseClass {
    
  }
 
-
-
-};
+}
